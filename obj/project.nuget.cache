@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hr8ddOhJXVm1EitV12CGauP2FiTcK7n083eNW1E4d3zSXjN8mwtdK+JH4n+4FXeM4yO57N58D3VajVRtg+y2dw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER\\Documents\\my games\\Terraria\\tModLoader\\ModSources\\ArcanumMod\\ArcanumMod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
