@@ -1,4 +1,4 @@
-displayName = Arcanum
+displayName = [c/A5D2B1:Arcanum]
 author = Mathew and the Arcanum Crew
 version = 0.1
 
